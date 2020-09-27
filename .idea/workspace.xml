@@ -7,14 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,7 @@
       <workItem from="1601204024012" duration="337000" />
       <workItem from="1601204654331" duration="17000" />
       <workItem from="1601204683244" duration="2423000" />
-      <workItem from="1601217648242" duration="2752000" />
+      <workItem from="1601217648242" duration="3616000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1601205699041</created>
@@ -86,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601206501900</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1601221190024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601221190024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +117,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601205551717" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601206680006">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601221206193">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601206680006" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601221206193" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601205568152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

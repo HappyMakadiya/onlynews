@@ -23,7 +23,7 @@ const App = () => {
     }, [])
 
     return (
-        <div className="App">
+        <div className="App" style={{backgroundColor:"white"}}>
             <NavigationBar/>
             <div className={classes.logoContainer}>
                 <img src="https://alan.app/voice/images/previews/preview.jpg" className={classes.alanLogo} alt="logo" />
