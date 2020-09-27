@@ -5,12 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCards/cssStyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NewsCards/NewsCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsCards/NewsCards.js" afterDir="false" />
-    </list>
+    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +69,7 @@
       <workItem from="1601204024012" duration="337000" />
       <workItem from="1601204654331" duration="17000" />
       <workItem from="1601204683244" duration="2423000" />
-      <workItem from="1601217648242" duration="11078000" />
+      <workItem from="1601217648242" duration="11532000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1601205699041</created>
@@ -104,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601221805506</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Commit">
+      <created>1601229776346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601229776346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +137,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601205551717" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601221811900">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601229781889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601221811900" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601229781889" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601205568152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
