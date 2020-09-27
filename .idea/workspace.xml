@@ -5,33 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/onlynews.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCard/NewsCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCard/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCards/NewsCards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCards/scratch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewsCards/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indec.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
+    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +63,16 @@
       <updated>1601204022153</updated>
       <workItem from="1601204024012" duration="337000" />
       <workItem from="1601204654331" duration="17000" />
-      <workItem from="1601204683244" duration="858000" />
+      <workItem from="1601204683244" duration="1788000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1601205699041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601205699041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +90,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601204836330">
       <screen x="0" y="0" width="1366" height="728" />
@@ -113,5 +103,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601205551717" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601205730911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601205730911" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601205568152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601205568152" />
   </component>
 </project>
