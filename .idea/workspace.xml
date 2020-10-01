@@ -5,7 +5,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit" />
+    <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/mstile-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/mstile-310x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/mstile-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/mstile-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon_package_/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsCards/NewsCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsCards/NewsCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsCards/cssStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsCards/cssStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewsCards/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewsCards/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indec.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/indec.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,7 +75,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\5.sem-5\SGP\onlynews\public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\5.sem-5\SGP\onlynews\public" />
       <recent name="D:\5.sem-5\SGP\onlynews\src\components" />
       <recent name="D:\5.sem-5\SGP\onlynews\src" />
     </key>
@@ -69,7 +100,11 @@
       <workItem from="1601204024012" duration="337000" />
       <workItem from="1601204654331" duration="17000" />
       <workItem from="1601204683244" duration="2423000" />
-      <workItem from="1601217648242" duration="11532000" />
+      <workItem from="1601217648242" duration="12182000" />
+      <workItem from="1601265884819" duration="2654000" />
+      <workItem from="1601396711359" duration="4833000" />
+      <workItem from="1601467642921" duration="4463000" />
+      <workItem from="1601564486786" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1601205699041</created>
@@ -106,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601229776346</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Commit">
+      <created>1601230028425</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601230028425</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +187,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601205568152" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1601468444261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601468444261" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601227330406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
