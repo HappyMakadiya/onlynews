@@ -5,9 +5,9 @@ const NewsCard = ({ article: { description, publishedAt, source, title, url, url
     const classes = useStyles()
     return (
         <Card className={classes.card}>
-            <CardActionArea href={url} target="_blank">
+            <CardActionArea className={classes.cardUpper}>
                 <CardMedia className={classes.media} image={urlToImage}/>
-                <div className={classes.details}>
+                <div className={classes.details} >
                     <Typography variant="body2" color="textSecondary" component="h2"> { (new Date(publishedAt)).toDateString()}</Typography>
                     <Typography variant="body2" color="textSecondary" component="h2">{source.name}</Typography>
                 </div>
@@ -17,7 +17,7 @@ const NewsCard = ({ article: { description, publishedAt, source, title, url, url
                 </CardContent>
             </CardActionArea>
             <CardActions className={classes.cardActions}>
-                <Button size="small" color="primary">Learn More</Button>
+                <Button size="small" color="primary"  href={url}  target="_blank" >Learn More</Button>
                 <Typography variant="h5" color="textSecondary">{ i+1 }</Typography>
             </CardActions>
         </Card>

@@ -1,13 +1,13 @@
-import {makeStyles} from "@material-ui/core/styles";
+import { makeStyles } from '@material-ui/core/styles';
 
 export default makeStyles({
     media: {
         height: 250,
     },
-    border:{
+    border: {
         border: 'solid',
     },
-    fullHeightCard:{
+    fullHeightCard: {
         height: '100%',
     },
     card: {
@@ -16,23 +16,31 @@ export default makeStyles({
         justifyContent: 'space-between',
         borderBottom: '10px solid white',
     },
-    activeCard:{
+
+    activeCard: {
         borderBottom: '10px solid #22289a',
     },
-    grid:{
+    grid: {
         display: 'flex',
     },
-    details:{
+    details: {
         display: 'flex',
         justifyContent: 'space-between',
-        margin:'20px',
+        margin: '20px',
     },
-    title:{
-        padding:'0px 16px',
+    title: {
+        padding: '0 16px',
     },
     cardActions: {
         padding: '0 16px 8px 16px',
         display: 'flex',
         justifyContent: 'space-between',
+
     },
-})
+    cardUpper: {
+        "&:click":{
+            border:'none',
+        }
+
+    }
+});
