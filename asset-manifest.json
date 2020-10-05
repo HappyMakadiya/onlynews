@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/onlynews/static/css/main.415f82a7.chunk.css",
-    "main.js": "/onlynews/static/js/main.be537b17.chunk.js",
-    "main.js.map": "/onlynews/static/js/main.be537b17.chunk.js.map",
+    "main.js": "/onlynews/static/js/main.b7e31be2.chunk.js",
+    "main.js.map": "/onlynews/static/js/main.b7e31be2.chunk.js.map",
     "runtime-main.js": "/onlynews/static/js/runtime-main.42863458.js",
     "runtime-main.js.map": "/onlynews/static/js/runtime-main.42863458.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/onlynews/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.da147ba6.chunk.js": "/onlynews/static/js/2.da147ba6.chunk.js",
-    "static/js/2.da147ba6.chunk.js.map": "/onlynews/static/js/2.da147ba6.chunk.js.map",
+    "static/js/2.1677f992.chunk.js": "/onlynews/static/js/2.1677f992.chunk.js",
+    "static/js/2.1677f992.chunk.js.map": "/onlynews/static/js/2.1677f992.chunk.js.map",
     "index.html": "/onlynews/index.html",
-    "precache-manifest.655d7414609e06fbc5bdd60e937658bf.js": "/onlynews/precache-manifest.655d7414609e06fbc5bdd60e937658bf.js",
+    "precache-manifest.ad519d7cbca19ce3e0c2bc45e20f1ee0.js": "/onlynews/precache-manifest.ad519d7cbca19ce3e0c2bc45e20f1ee0.js",
     "service-worker.js": "/onlynews/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/onlynews/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.415f82a7.chunk.css.map": "/onlynews/static/css/main.415f82a7.chunk.css.map",
-    "static/js/2.da147ba6.chunk.js.LICENSE.txt": "/onlynews/static/js/2.da147ba6.chunk.js.LICENSE.txt",
+    "static/js/2.1677f992.chunk.js.LICENSE.txt": "/onlynews/static/js/2.1677f992.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/onlynews/static/media/logo.bd0062b4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.42863458.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.da147ba6.chunk.js",
+    "static/js/2.1677f992.chunk.js",
     "static/css/main.415f82a7.chunk.css",
-    "static/js/main.be537b17.chunk.js"
+    "static/js/main.b7e31be2.chunk.js"
   ]
 }
