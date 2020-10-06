@@ -3,10 +3,15 @@ import './cssStyles.css';
 import {Grid} from "@material-ui/core";
 
 const infoCards = [
-    { color: '#00838f', title: 'News by Top-Headline',info:'Latest News', text: 'Give me the latest news' },
-    { color: '#1565c0', title: 'News by Categories', info: 'Entertainment, Health, Science, Sports, Technology', text: 'Tell me the recent news on Technology ' },
-    { color: '#4527a0', title: 'News by Terms', info: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...', text: 'What\'s up with PlayStation 5' },
-    { color: '#283593', title: 'News by Sources', info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...', text: 'Give me the news from CNN' },
+    {title: 'News by Top-Headline', subTitle: '', info:'Top-Headline, Latest News', text: 'Give me the latest news' },
+    {title: 'News by Categories', subTitle: 'Categories',info: 'Entertainment, Health, Science, Sports, Technology', text: 'Tell me the recent news on Technology ' },
+    {title: 'News by Terms', subTitle: 'Terms',info: 'Bitcoin, PlayStation 5, Smartphones, Donald Trump...', text: 'What\'s up with PlayStation 5' },
+    {title: 'News by Sources', subTitle: 'Sources',info: 'CNN, Wired, BBC News, Time, IGN, Buzzfeed, ABC News...', text: 'Give me the news from CNN' },
+    {title: 'Small Talk', subTitle: '', text: 'How are you?, Can you help me?, What can I do here?' },
+    {title: 'Calculator', subTitle: 'Mathematical Operation',info: 'Addition, Multiplication, Subtraction, Division, Square root...', text: 'Square root of 16' },
+    {title: 'Calendar', subTitle: '',info: 'Date, time, Day, Time Zone...', text: 'What day is tomorrow?, What is Time zone?' },
+    {title: 'Weather', subTitle: '',info: 'weather, temperature, humidity, pressure', text: 'What is weather in Mumbai?, What is the Temperature?, Is it going to rain?' },
+
 ];
 class Instruction extends React.Component{
     render() {
@@ -19,14 +24,15 @@ class Instruction extends React.Component{
                                 <div className="card__title">
                                     {infoCard.title}
                                 </div>
-                                {   infoCard.info
-                                    ?<div  className="card__subtitle"><strong>{infoCard.title.split(' ')[2]}</strong>
-                                        : <br />{infoCard.info} </div>
-                                    :null
-                                }
+                                <div  className="card__subtitle">
+                                    <strong>{infoCard.subTitle}</strong>
+                                    <br />{infoCard.info}
+                                </div>
+
+
                                 <br/>
                                 <div className="card__description">
-                                    <i>Try Saying..<br/>{infoCard.text}</i>
+                                    <i><strong>Try Saying..</strong><br/>{infoCard.text}</i>
                                 </div>
                             </div>
                         </Grid>
