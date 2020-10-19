@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import alanBtn from '@alan-ai/alan-sdk-web';
-import NewsCards from "./components/NewsCards/NewsCards";
 import NavigationBar from "./components/NavigationBar";
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import NewNews from './components/NewsCards/NewNews';
+import AboutUs from "./components/AboutUs";
 import Instruction from './components/NewsCards/Instruction';
+import NewNews from './components/NewsCards/NewNews';
+import NewsCards from './components/NewsCards/NewsCards';
 import { Form, Button, FormControl} from "react-bootstrap/cjs";
 import { trackPromise } from 'react-promise-tracker';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 const alanKey = '64ac0ca7df2e19f1eaf6e0ba289d49782e956eca572e1d8b807a3e2338fdd0dc/stage';
 
 const App = () => {
@@ -60,7 +61,6 @@ const App = () => {
     return (
         <div  style={{backgroundColor:"white"}}>
             <NavigationBar/> <br/>
-
             <Form inline className="container searchBar">
                 <FormControl type="text" placeholder="Search News" className="m-2" value={query} onChange={e => setQuery(e.target.value)}/>
                 <Button variant="outline-info" className="m-2" onClick={search}>Search</Button>
@@ -81,6 +81,8 @@ const App = () => {
                     ? <NewNews articles={bingnews}/>
                     : <i>No Result</i>
             }
+
+
             
         </div>
     )   
