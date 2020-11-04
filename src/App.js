@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import alanBtn from '@alan-ai/alan-sdk-web';
 import NavigationBar from "./components/NavigationBar";
-import AboutUs from "./components/AboutUs";
 import Instruction from './components/NewsCards/Instruction';
 import NewNews from './components/NewsCards/NewNews';
 import NewsCards from './components/NewsCards/NewsCards';
@@ -44,7 +43,7 @@ const App = () => {
     async function searchNews(q) {
         q = encodeURIComponent(q);
         
-            const response = await trackPromise( 
+            const response = await trackPromise(
                 fetch(`https://rapidapi.p.rapidapi.com/news/search?count=50&freshness=Week&textFormat=Raw&safeSearch=Off&q=${q}`, {
                 "method": "GET",
                 "headers": {
@@ -56,7 +55,7 @@ const App = () => {
                 );
             const body = await response.json();
         
-        return body.value;  
+        return body.value;
       }      
     return (
         <div  style={{backgroundColor:"white"}}>

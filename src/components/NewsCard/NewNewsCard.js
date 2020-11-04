@@ -22,6 +22,8 @@ const NewsCard = ({ article, i}) => {
                 <Typography variant="h5" color="textSecondary">{ i+1 }</Typography>
             </CardActions>
         </Card>
+
+       
     )
 }
 export default NewsCard;

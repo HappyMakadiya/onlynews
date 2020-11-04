@@ -1,5 +1,5 @@
 import React from "react";
-import {Navbar, Nav} from "react-bootstrap/cjs";
+import {Navbar} from "react-bootstrap/cjs";
 import logo from "./logo.svg";
 import Container from "react-bootstrap/Container";
 class NavigationBar extends React.Component{
