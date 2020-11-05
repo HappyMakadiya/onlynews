@@ -48,7 +48,7 @@ const App = () => {
                 "method": "GET",
                 "headers": {
                     "x-rapidapi-host": "bing-news-search1.p.rapidapi.com",
-                    "x-rapidapi-key": "24c6046dabmshdfd2dceacbf296cp1ef0b4jsn54adac459974",
+                    "x-rapidapi-key": "118f42637bmsh0e01fcbaa2e0f1dp101073jsne65fccfcd64e",
                     "x-bingapis-sdk": "true"
                 }
                 })
