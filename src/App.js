@@ -44,11 +44,11 @@ const App = () => {
         q = encodeURIComponent(q);
         
             const response = await trackPromise(
-                fetch(`https://rapidapi.p.rapidapi.com/news/search?count=50&freshness=Week&textFormat=Raw&safeSearch=Off&q=${q}`, {
+                fetch(`https://rapidapi.p.rapidapi.com/news/search?count=50&setLang=IN&freshness=Week&textFormat=Raw&safeSearch=Off&q=${q}`, {
                 "method": "GET",
                 "headers": {
                     "x-rapidapi-host": "bing-news-search1.p.rapidapi.com",
-                    "x-rapidapi-key": "118f42637bmsh0e01fcbaa2e0f1dp101073jsne65fccfcd64e",
+                    "x-rapidapi-key": "24c6046dabmshdfd2dceacbf296cp1ef0b4jsn54adac459974",
                     "x-bingapis-sdk": "true"
                 }
                 })

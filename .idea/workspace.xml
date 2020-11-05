@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f11140f0-ade4-48a1-8b92-3b22f380cf1b" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +90,8 @@
       <workItem from="1603083551206" duration="1500000" />
       <workItem from="1604251041607" duration="522000" />
       <workItem from="1604470870494" duration="3552000" />
+      <workItem from="1604514220937" duration="1444000" />
+      <workItem from="1604549284153" duration="2514000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1601205699041</created>
@@ -257,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601205568152" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1601975693054">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604517431021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1601975693054" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604517431021" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601227330406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
